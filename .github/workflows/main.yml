@@ -1,0 +1,11 @@
+# This is a basic workflow to help you get started with Actions
+
+Download the full zip and extract.
+Run install.bat
+Move all files from the zip into /programfiles/rdpwrap
+Run autoupdate as admin
+Run RDPConf.exe to verify working condition.
+Right-click W10Privacy.exe and choose Run as administrator from the context menu. Choose to make a system restore point. It’s also worth making a full system backup (just in case).
+Go to Extras > Windows Updates to manage the options. There are six different check boxes.
+Check the first five options
+Click Set changed settings
